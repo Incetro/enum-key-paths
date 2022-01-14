@@ -120,3 +120,4 @@ dependencies: [
 ## License
 
 All modules are released under the MIT license. See [LICENSE](LICENSE) for details.
+Thanks [pointfree](https://github.com/pointfreeco/swift-case-paths) very much for their idea 🖤
